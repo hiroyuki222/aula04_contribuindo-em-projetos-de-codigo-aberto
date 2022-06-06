@@ -15,13 +15,13 @@ git status
 ### 2.3. Separar que deseja registrar no histórico de versionamento
 
 ```
-git commit
+git add .
 ```
 
 ### 2.4. Criar uma descrição para ser adicionado no histórico de versionamento
 
 ```
--m "Descrição"
+git commit -m "Descrição"
 ```
 
 ### 2.5. Listar todo histórico de versionamento do repositório
