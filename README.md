@@ -16,31 +16,37 @@
 
 ## 2. Fluxo de desenvolvimento local
 
-### 2.1. Inicializar projeto
+### 2.1. Criar uma cópia do repositório localmente
 
 ```
 
 ```
 
-### 2.2. Acompanhar estágio atual das alterações
+### 2.2. Inicializar projeto
 
 ```
 
 ```
 
-### 2.3. Separar que deseja registrar no histórico de versionamento
+### 2.3. Acompanhar estágio atual das alterações
 
 ```
 
 ```
 
-### 2.4. Criar uma descrição para ser adicionado no histórico de versionamento
+### 2.4. Separar que deseja registrar no histórico de versionamento
 
 ```
 
 ```
 
-### 2.4. Listar todo histórico de versionamento do repositório
+### 2.5. Criar uma descrição para ser adicionado no histórico de versionamento
+
+```
+
+```
+
+### 2.6. Listar todo histórico de versionamento do repositório
 
 ```
 
@@ -48,25 +54,19 @@
 
 ## 3. Fluxo de desenvolvimento remoto
 
-### 3.1. Criar uma cópia do repositório localmente
+### 3.1. Definir qual o endereço do repositório remoto receberá o código-fonte do repositório local
 
 ```
 
 ```
 
-### 3.2. Definir qual o endereço do repositório remoto receberá o código-fonte do repositório local
+### 3.2. Enviar o código-fonte do repositório local para o repositório remoto
 
 ```
 
 ```
 
-### 3.3. Enviar o código-fonte do repositório local para o repositório remoto
-
-```
-
-```
-
-### 3.4. Verificar e baixar ajustes no código-fonte do repositório remoto para o repositório local
+### 3.3. Verificar e baixar ajustes no código-fonte do repositório remoto para o repositório local
 
 ```
 
